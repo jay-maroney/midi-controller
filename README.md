@@ -1,6 +1,6 @@
 # Custom MIDI Keyboard Controller
 
-Designing a custom MIDI keyboard built from first principles.
+Designed and implemented a MIDI keyboard controller from fundamental hardware and firmware components, including key matrix scanning, velocity sensing circuitry, and USB-MIDI communication.
 
 ## Goals
 
